@@ -1,8 +1,7 @@
 # js-parameter
-* simple url parameter manipulation
 
-* getParam( url ); //return queryString Object
-* setParam( object ); //return serializing queryString
+simple url parameter manipulation
+
 
 ## Install
 
@@ -11,6 +10,9 @@ $npm install js-parameter
 ```
 
 ## Usage
+
+* getParam( url ) return queryString Object
+* setParam( object ) return serializing queryString
 
 ```
 var param = require( 'js-parameter' );
