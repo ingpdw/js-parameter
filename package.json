@@ -1,6 +1,6 @@
 {
   "name": "js-parameter",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "parameter manipulation",
   "main": "index.js",
   "scripts": {
