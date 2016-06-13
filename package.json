@@ -1,8 +1,11 @@
 {
   "name": "js-parameter",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "parameter manipulation",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
   "author": {
     "name": "ingpdw",
     "email": "ingpdw@gmail.com"
